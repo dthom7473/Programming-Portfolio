@@ -19,5 +19,4 @@ I used python to create this program because of the simplicity and intuitition t
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * Stack Overflow - https://stackoverflow.com/questions/32409802/basic-explanation-of-python-functions
