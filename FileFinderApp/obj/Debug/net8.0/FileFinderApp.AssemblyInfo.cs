@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileFinderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8eb62ac86317de1da7fac0a83fa3810557d43e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d7845634b203afdff762331de9a8f908197907e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileFinderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileFinderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
