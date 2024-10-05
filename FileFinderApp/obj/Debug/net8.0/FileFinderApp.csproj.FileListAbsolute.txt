@@ -1,0 +1,15 @@
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\bin\Debug\net8.0\FileFinderApp.exe
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\bin\Debug\net8.0\FileFinderApp.deps.json
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\bin\Debug\net8.0\FileFinderApp.runtimeconfig.json
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\bin\Debug\net8.0\FileFinderApp.dll
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\bin\Debug\net8.0\FileFinderApp.pdb
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.AssemblyInfoInputs.cache
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.AssemblyInfo.cs
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.sourcelink.json
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.dll
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\refint\FileFinderApp.dll
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.pdb
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\FileFinderApp.genruntimeconfig.cache
+C:\Users\dalli\OneDrive\Documents\School\Fall 2024\Applied Programming\cse310\FileFinderApp\obj\Debug\net8.0\ref\FileFinderApp.dll
