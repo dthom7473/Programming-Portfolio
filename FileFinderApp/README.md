@@ -16,8 +16,6 @@ I used the following libraries:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - Stack Overflow: https://stackoverflow.com/questions/4254339/how-to-loop-through-all-the-files-in-a-directory-in-c-net
 - Microsoft Learn: https://learn.microsoft.com/en-us/dotnet/api/system.io.file.delete?view=net-8.0
 - GeeksForGeeks: https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/
