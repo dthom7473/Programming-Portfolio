@@ -1,22 +1,22 @@
-# Overview
+As an aspiring computer engineer, I developed a program in the C# language in order to better understand how to navigate through files, accessing important information and potentially helping a user better manage these files. This program will prompt the user for a file path. This could be any file path on a windows computer found from the file explorer application. The user can then choose how they want these files displayed to them; alphebetically, by date modified, or file size. After selecting this, they can then choose whether or not the files will be presented in ascending or descending order based on the sorting type they chose. Sorting the file by name will display every file (Excluding folders) in the directory just as it apprears in the file explorer. Things are a little bit different when you choose to sort by date or file size. This allows an easy visualization of what is taking up the most space in that folder, or what has been in the folder for the longest and may not be relevent anymore. The program will then ask if you would like to delete the oldest or largest file in the folder to help clean up space and organize it better (Please note: the program WILL DELETE THE FILE if you choose to. Please don't do this unless you know what you're doing).
 
-As an aspiring Computer Engineer, my goal is to allow the convinience of modern technolagy to be accessed by all in the most familiar, user friendly way. I have in the past made many quality of life programs that make everyday activities such as an online order, a youtube comment section, or a fitness calculator, even easier to use for the average person. To further my learning, I aspire to familiarize myself with even more technological abilities in order to be able to understand how to further improve on my programs as well as future applications I would like to attempt to make.
+[Software Demo Video] - https://youtu.be/sHeKJZ5hqJ8
 
-My "Hello World" software is a short python program that prints the phrase, as well as stores a few simple questions using a function that the user can input and save in order to store information from the user that may be used for a future program that might require a few base questions. The program is simple and fast, and written in the ever intuitive python language.
+Development Environment
+A lot of research went into making this program. I was previously unfamiliar with how to access files given a directory, but was eventually able to figure it out. I'd estimate a good 2/3 of the time making the program was used durring the research portion, and the rest was mostly troubleshooting the program to make it work as expected.
 
-The reason for creating this program was to set down some ground work for other potential additions for this portfolio. It's a simple but effective way to demonstrate a few of my programming capabilities.
+I used the following libraries:
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video] https://youtu.be/56W7ySVmzEc?si=zxvINd1aWkeNDuti
-
-
-# Development Environment
-
-This program was made entirely by myself, but I did use stack overflow for a quick reminder about the python function syntax. Having coded a lot in C# recently, I used this site as a good way to jog my memory.
-
-I used python to create this program because of the simplicity and intuitition that it takes to code in python. Not only is it easy to use, but it's also very easy for an outsider to understand.
-
-# Useful Websites
-
-* Stack Overflow - https://stackoverflow.com/questions/32409802/basic-explanation-of-python-functions
+System.IO - this allowed me to make the directory class and the FileInfo class. It allowed me to access attributes such as the length of the file and the last modification date, as well as the name.
+System - allows for Console.WriteLine() and Console.ReadLine(). It also lets me use Exception handeling in my if-else statements.
+System.Linq - used for sorting and filtering the files. This was what the FileSorter class relyed on primarily.
+System.Collections.Generic - this provided an interface that can represent a collection of files that can be looped through. This is how I was able to convert the file types to a string.
+Useful Websites
+Stack Overflow: https://stackoverflow.com/questions/4254339/how-to-loop-through-all-the-files-in-a-directory-in-c-net
+Microsoft Learn: https://learn.microsoft.com/en-us/dotnet/api/system.io.file.delete?view=net-8.0
+GeeksForGeeks: https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/
+Future Work
+Allow all file types to be converted to a string
+Add an option to view folders as will as files, as represented by strings
+Allow the user to delete more than one file at a time (as determined by the user)
+Allow the file to be opened directly from the program (better user interface)
